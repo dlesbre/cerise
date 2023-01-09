@@ -88,6 +88,7 @@ theories/ftlr_binary/Restrict_binary.v
 theories/ftlr_binary/Store_binary.v
 theories/fundamental_binary.v
 theories/examples/addr_reg_sample.v
+theories/contextual_refinement.v
 theories/examples/malloc.v
 theories/examples/assert.v
 theories/examples/contiguous.v
